@@ -1,0 +1,28 @@
+# Core data
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Deep learning
+torch
+
+# Utilities
+tqdm
+joblib
+python-dotenv
+
+# Optional for API / deployment
+fastapi
+uvicorn
+python-multipart
+
+# Optional for advanced stats / baselines
+statsmodels
+pmdarima
+streamlit
